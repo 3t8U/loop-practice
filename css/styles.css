@@ -1,0 +1,42 @@
+#baby-show {
+  display: none;
+
+
+}
+
+#demon-show {
+  display: block;
+  /* background-color: red; */
+}
+
+
+.clickable {
+  cursor: crosshair;
+  color: green;
+
+}
+
+/* .clickable:hover {
+  background-color: red;
+} */
+
+img {
+  width: auto;
+  height: 500px;
+  display: block;
+
+}
+
+body {
+  text-align: center;
+  /* background-color: lightblue; */
+}
+
+.card {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  border: none;
+  margin-left: 25%;
+  overflow: inherit;
+}
